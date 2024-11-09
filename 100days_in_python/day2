@@ -1,4 +1,4 @@
 a=0;
-for i in range(a,100):
-  i=a+i
-print(i)
+for i in range(100):
+  a=a+i
+print(a)
